@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*~
+__pycache__/
+
+geckodriver.log
+
+# Env
+.env
+myvenv/
+venv/
+
+# Database
+vacancies.db
+
+#sources
+pages/
+drivers/
+
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+.gitingore
+*.code-workspace
+__pycache__
